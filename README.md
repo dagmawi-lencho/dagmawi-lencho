@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/dagmawilencho" target="blank"><img src="https://img.shields.io/twitter/follow/dagmawilencho?logo=twitter&style=for-the-badge" alt="dagmawilencho" /></a> </p>
 
-- 🔭 I’m currently working on [Letemari, Yegna Delivery, Jtabor Broker, and Brana under my startup DWD Group.](dagmawilencho.dev)
+- 🔭 I’m currently working on [Letemari, Yegna Delivery, Jtabor Broker, and Brana under my startup DWD Group.](https://dagmawilencho.dev)
 
 - 🌱 I’m currently learning **C++ and advanced PHP (MVC structures, Blade templating) to strengthen my backend skills.**
 
-- 👨‍💻 All of my projects are available at [dagmawilencho.dev](dagmawilencho.dev)
+- 👨‍💻 All of my projects are available at [dagmawilencho.dev](https://dagmawilencho.dev)
 
 - 💬 Ask me about **startups, full-stack development, delivery systems, and digital education platforms.**
 
